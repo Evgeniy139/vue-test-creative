@@ -1,23 +1,23 @@
-### install cli
+#### install cli
 
 npm install -g @vue/cli
 
-### install dependencies
+#### install dependencies
 
 npm i
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+#### Start the app in development mode (hot-code reloading, error reporting, etc.)
 
 npm run serve
 
-### Build the app for production
+#### Build the app for production
 
 npm run build
 
-### install serve for production
+#### install serve for production
 
 npm install -g serve
 
-### start serve to production
+#### start serve to production
 
 serve -s dist
