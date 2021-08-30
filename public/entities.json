@@ -1,0 +1,160 @@
+{
+    "response": [
+        {
+            "type": "flat",
+            "id": 1,
+            "attributes": {
+            "img": "mykaleidoscope.ru/uploads/posts/2020-10/1602972281_37-p-interer-bolshoi-gostinoi-57.jpg",
+            "title": "3-х комнатная на Минской",
+            "rooms": 3,
+            "address": {
+                "city": "Tyumen",
+                "street": "Минская",
+                "house": "3a",
+                "room": "123"
+            },
+            "area": 134,
+            "unit": "квм"
+            },
+            "relationships": {
+            "type": "agent",
+            "id": 2,
+            "attributes": {
+                "first_name": "Василий",
+                "last_name": "Дроздов",
+                "middle_name": "Михайлович"
+            }
+            }
+        },
+        {
+            "type": "flat",
+            "id": 2,
+            "attributes": {
+            "img": "inteld.ru/wp-content/uploads/2020/11/pexels-photo-1643383-1024x674.jpeg",
+            "title": "1 комнатная на Барабаинской",
+            "rooms": 2,
+            "address": {
+                "city": "Tyumen",
+                "street": "Барабинская",
+                "house": "12",
+                "room": "45"
+            },
+            "area": 34,
+            "unit": "квм"
+            },
+            "relationships": {
+            "type": "agent",
+            "id": 10,
+            "attributes": {
+                "first_name": "Михаил",
+                "last_name": "Иванов",
+                "middle_name": "Демидович"
+            }
+            }
+        },
+        {
+            "type": "flat",
+            "id": 3,
+            "attributes": {
+            "img": "mykaleidoscope.ru/uploads/posts/2021-04/1617616185_34-p-gostinaya-s-panoramnimi-oknami-36.jpg",
+            "title": "Квартира на Ленина",
+            "rooms": 4,
+            "address": {
+                "city": "Tyumen",
+                "street": "Ленина",
+                "house": "134",
+                "room": "24"
+            },
+            "area": 134,
+            "unit": "квм"
+            },
+            "relationships": {
+            "type": "agent",
+            "id": 44,
+            "attributes": {
+                "first_name": "Степан",
+                "last_name": "Карачаев",
+                "middle_name": "Иванович"
+            }
+            }
+        },
+        {
+            "type": "flat",
+            "id": 4,
+            "attributes": {
+            "img": "i.pinimg.com/originals/e5/90/89/e59089ba97e97dc8d77a53378f20a79c.jpg",
+            "title": "3-х комнатная на Минской",
+            "rooms": 1,
+            "address": {
+                "city": "Tyumen",
+                "street": "Газавиком",
+                "house": "5a",
+                "room": "13"
+            },
+            "area": 134,
+            "unit": "квм"
+            },
+            "relationships": {
+            "type": "agent",
+            "id": 2,
+            "attributes": {
+                "first_name": "Василий",
+                "last_name": "Агеев",
+                "middle_name": "Михайлович"
+            }
+            }
+        },
+        {
+            "type": "flat",
+            "id": 5,
+            "attributes": {
+            "img": "petrishin.ru/wp-content/uploads/2017/05/445-1.jpg",
+            "title": "1 комнатная на Барабаинской",
+            "rooms": 2,
+            "address": {
+                "city": "Tyumen",
+                "street": "Эрвье",
+                "house": "120",
+                "room": "145"
+            },
+            "area": 35,
+            "unit": "квм"
+            },
+            "relationships": {
+            "type": "agent",
+            "id": 10,
+            "attributes": {
+                "first_name": "Михаил",
+                "last_name": "Иванов",
+                "middle_name": "Замаруев"
+            }
+            }
+        },
+        {
+            "type": "flat",
+            "id": 6,
+            "attributes": {
+            "img": "mykaleidoscope.ru/uploads/posts/2021-03/1615661357_36-p-krasivaya-kvartira-vnutri-obraz-38.jpg",
+            "title": "Квартира на Ленина",
+            "rooms": 3,
+            "address": {
+                "city": "Tyumen",
+                "street": "Перекопская",
+                "house": "14",
+                "room": "240"
+            },
+            "area": 234,
+            "unit": "квм"
+            },
+            "relationships": {
+            "type": "agent",
+            "id": 44,
+            "attributes": {
+                "first_name": "Степан",
+                "last_name": "Карачаев",
+                "middle_name": "Батурин"
+            }
+            }
+        }
+    ]
+}
